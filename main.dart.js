@@ -45225,7 +45225,7 @@ A.Nt.prototype={}
 A.xv.prototype={
 W(a,b){return new A.pu(B.zj,"Pls Work",A.a1T(null,B.oI),null)}}
 A.xd.prototype={
-W(a,b){return new A.pC("https://modelviewer.dev/shared-assets/models/Astronaut.glb",!0,!0,!0,B.m,null)}}
+W(a,b){return new A.pC("https://logo3d.s3.ca-central-1.amazonaws.com/Possible_logo_for_DS.glb",!0,!0,!0,B.m,null)}}
 A.S9.prototype={}
 A.Sa.prototype={}
 A.aS.prototype={
